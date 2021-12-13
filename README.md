@@ -5,4 +5,4 @@ The script is not very accurate and fails to detect lines most of the times.
 ## Preview
 ![Preview](preview.png)
 ![Original](preview_original.jpg)
-![Guidelines](preview_guidelienes.jpg)
+![Guidelines](preview_guidelines.jpg)
